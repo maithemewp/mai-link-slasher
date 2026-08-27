@@ -5,6 +5,7 @@
  * Plugin URI:      https://bizbudding.com/
  * Description:     Forces a trailing slash on interal links within the content.
  * Version:         0.1.0
+ * Requires PHP:    8.1
  *
  * Author:          BizBudding
  * Author URI:      https://bizbudding.com
